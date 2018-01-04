@@ -9,11 +9,11 @@
 ReColor                                   
 https://github.com/SIMMORSAL/ReColor
 
-快速实现圆角需求                                   
+快速實現圓角需求                                   
 https://github.com/GcsSloop/rclayout                                   
                               
 預覽
 --------
-![image](https://i.imgur.com/rqqnARV.png)                                      
+![image](https://i.imgur.com/YfG2BVm.png)                                      
 
-![image](https://i.imgur.com/OuBtjyW.png)
+![image](https://i.imgur.com/oJoA1Id.png)
